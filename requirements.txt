@@ -1,0 +1,19 @@
+absl-py==2.1.0
+altgraph @ file:///System/Volumes/Data/SWE/Apps/DT/BuildRoots/BuildRoot11/ActiveBuildRoot/Library/Caches/com.apple.xbs/Sources/python3/python3-141/altgraph-0.17.2-py2.py3-none-any.whl
+Cython==3.0.11
+future @ file:///System/Volumes/Data/SWE/Apps/DT/BuildRoots/BuildRoot11/ActiveBuildRoot/Library/Caches/com.apple.xbs/Sources/python3/python3-141/future-0.18.2-py3-none-any.whl
+immutabledict==4.2.1
+joblib==1.4.2
+k-means-constrained==0.7.3
+macholib @ file:///System/Volumes/Data/SWE/Apps/DT/BuildRoots/BuildRoot11/ActiveBuildRoot/Library/Caches/com.apple.xbs/Sources/python3/python3-141/macholib-1.15.2-py2.py3-none-any.whl
+numpy==2.0.2
+ortools==9.11.4210
+pandas==2.2.3
+protobuf==5.26.1
+python-dateutil==2.9.0.post0
+pytz==2024.2
+scikit-learn==1.5.2
+scipy==1.13.1
+six==1.16.0
+threadpoolctl==3.5.0
+tzdata==2024.2
